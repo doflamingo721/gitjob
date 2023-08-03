@@ -8,9 +8,9 @@ replace (
 )
 
 replace (
-	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher1
-	github.com/rancher/steve => github.com/doflamingo721/steve v1.26.5-rancher1
-	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher1
+	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher3
+	github.com/rancher/steve => github.com/doflamingo721/steve v1.26.5-rancher2
+	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher2
 )
 
 require (
@@ -21,7 +21,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/onsi/gomega v1.27.10
 	github.com/pkg/errors v0.9.1
-	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc
+	github.com/rancher/lasso v0.0.0-20230629200414-8a54b32e6792
 	github.com/rancher/steve v0.0.0-20220628235427-dbf9ef88ce8f
 	github.com/rancher/wrangler v1.1.1
 	github.com/sirupsen/logrus v1.9.3
